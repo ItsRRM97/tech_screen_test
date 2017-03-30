@@ -11,3 +11,7 @@ Create a basic web application with following features :
 4. Page to create/show list of services offered [Optional]
  
 Use AngularJs as the front end framework.
+
+There is a lot of fixing to be done. But due to shortage of time and my exams I couldn't fix many of th errors.
+
+This is a template I copied from the internet and made certain changes to it so that it fits the task.
